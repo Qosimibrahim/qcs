@@ -1,0 +1,53 @@
+@media only screen and (max-width:768px) {
+    header .navbar-brand {
+        padding-left: 1rem;
+    }
+
+    header {
+        height: inherit;
+        padding: ;
+    }
+
+    header .row .pitword {
+        margin-top: -15vmin;
+    }
+
+    header .row .pitmage {
+        margin-top: -18vmin;
+        width: 700vmin;
+        height: 90vmin;
+    }
+
+    .section-6 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+    }
+
+    .section-7 .row .col-md-6 iframe {
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width:670px) {
+    header .row .pitmage img {
+        margin-top: 1vmin;
+        width: 70vmin;
+        height: 90vmin;
+    }
+
+    .section-4 img {
+        width: 70vmin;
+        height: 90vmin;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .section-7 .row .col-md-6 .first-text {
+        width: 400px;
+    }
+
+    iframe {
+        width: initial;
+    }
+}
