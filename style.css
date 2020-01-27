@@ -235,7 +235,7 @@ header .container .cheesecake {
 .cover {
     width: 100%;
     height: 30vmin;
-    background: url("../assets/someonedrinkingcoffee.jpg");
+    background: url("someonedrinkingcoffee.JPG");
     background-position: -20rem -15rem;
     background-size: 100%;
     position: relative;
